@@ -10,7 +10,7 @@ I built a neural network from scratch using only numpy and trained it on the dat
 With the help of diegoalejogm's implementation of a Vanilla GAN generating hand-written digits (https://github.com/diegoalejogm/gans/blob/master/1.%20Vanilla%20GAN%20PyTorch.ipynb), I used a dataset of small flag icons from flagpedia (http://flagpedia.net/download) to generate small black and white flag icons.
 
 Examples of the training data:
-![First sample flag](https://github.com/Julian1070/Deep-Learning/blob/master/FlagGAN/flags/ad.png | width=100 "First sample flag")
+![First sample flag](https://github.com/Julian1070/Deep-Learning/blob/master/FlagGAN/flags/ad.png)
 ![Second sample flag](https://github.com/Julian1070/Deep-Learning/blob/master/TitanicKaggle/np_nn_submission.png | width=100 "Second sample flag")
 ![Third sample flag](https://github.com/Julian1070/Deep-Learning/blob/master/TitanicKaggle/np_nn_submission.png | width=100 "Third sample flag")
 
