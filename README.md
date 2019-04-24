@@ -26,3 +26,23 @@ With the help of diegoalejogm's implementation of a Vanilla GAN generating hand-
 <img src="https://github.com/Julian1070/Deep-Learning/blob/master/FlagGAN/generated_flags/generated_flag6.png" data-canonical-src="https://github.com/Julian1070/Deep-Learning/blob/master/FlagGAN/generated_flags/generated_flag6.png" width="255" height="100" />
 
 ## Comment classification with LSTM and GRU
+This Pytorch LSTM and GRU perform multi-class categorization on online comments from a kaggle challenge (https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge). The comments are categorized in the following **six categories**:
+- toxic
+- severe toxic
+- obscene
+- threat
+- identity hate
+
+These models were built after the end of the challenge, so the results are based on the actual test set data, which was made public after the deadline.
+
+#### LSTM
+
+<img src="https://github.com/Julian1070/Deep-Learning/blob/master/NLPClassification/results/LSTMLabelPerformance.png" data-canonical-src="https://github.com/Julian1070/Deep-Learning/blob/master/NLPClassification/results/LSTMLabelPerformance.png" width="255" />
+
+<img src="https://github.com/Julian1070/Deep-Learning/blob/master/NLPClassification/results/LSTMCommentPerformance.png" data-canonical-src="https://github.com/Julian1070/Deep-Learning/blob/master/NLPClassification/results/LSTMCommentPerformance.png" width="255" />
+
+#### GRU
+
+<img src="https://github.com/Julian1070/Deep-Learning/blob/master/NLPClassification/results/GRULabelPerformance.png" data-canonical-src="https://github.com/Julian1070/Deep-Learning/blob/master/NLPClassification/results/GRULabelPerformance.png" width="255" />
+
+<img src="https://github.com/Julian1070/Deep-Learning/blob/master/NLPClassification/results/GRUCommentPerformance.png" data-canonical-src="https://github.com/Julian1070/Deep-Learning/blob/master/NLPClassification/results/GRUCommentPerformance.png" width="255" />
