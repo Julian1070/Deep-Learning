@@ -24,3 +24,5 @@ With the help of diegoalejogm's implementation of a Vanilla GAN generating hand-
 <img src="https://github.com/Julian1070/Deep-Learning/blob/master/FlagGAN/generated_flags/generated_flag3.png" data-canonical-src="https://github.com/Julian1070/Deep-Learning/blob/master/FlagGAN/generated_flags/generated_flag3.png" width="255" height="100" />
 
 <img src="https://github.com/Julian1070/Deep-Learning/blob/master/FlagGAN/generated_flags/generated_flag6.png" data-canonical-src="https://github.com/Julian1070/Deep-Learning/blob/master/FlagGAN/generated_flags/generated_flag6.png" width="255" height="100" />
+
+## Comment classification with LSTM and GRU
