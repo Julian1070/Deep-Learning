@@ -37,12 +37,12 @@ These models were built after the end of the challenge, so the results are based
 
 #### LSTM
 
-<img src="https://github.com/Julian1070/Deep-Learning/blob/master/NLPClassification/results/LSTMLabelPerformance.png" data-canonical-src="https://github.com/Julian1070/Deep-Learning/blob/master/NLPClassification/results/LSTMLabelPerformance.png" width="255" />
+<img src="https://github.com/Julian1070/Deep-Learning/blob/master/NLPClassification/results/LSTMLabelPerformance.png" data-canonical-src="https://github.com/Julian1070/Deep-Learning/blob/master/NLPClassification/results/LSTMLabelPerformance.png" width="400" />
 
-<img src="https://github.com/Julian1070/Deep-Learning/blob/master/NLPClassification/results/LSTMCommentPerformance.png" data-canonical-src="https://github.com/Julian1070/Deep-Learning/blob/master/NLPClassification/results/LSTMCommentPerformance.png" width="255" />
+<img src="https://github.com/Julian1070/Deep-Learning/blob/master/NLPClassification/results/LSTMCommentPerformance.png" data-canonical-src="https://github.com/Julian1070/Deep-Learning/blob/master/NLPClassification/results/LSTMCommentPerformance.png" width="400" />
 
 #### GRU
 
-<img src="https://github.com/Julian1070/Deep-Learning/blob/master/NLPClassification/results/GRULabelPerformance.png" data-canonical-src="https://github.com/Julian1070/Deep-Learning/blob/master/NLPClassification/results/GRULabelPerformance.png" width="255" />
+<img src="https://github.com/Julian1070/Deep-Learning/blob/master/NLPClassification/results/GRULabelPerformance.png" data-canonical-src="https://github.com/Julian1070/Deep-Learning/blob/master/NLPClassification/results/GRULabelPerformance.png" width="400" />
 
-<img src="https://github.com/Julian1070/Deep-Learning/blob/master/NLPClassification/results/GRUCommentPerformance.png" data-canonical-src="https://github.com/Julian1070/Deep-Learning/blob/master/NLPClassification/results/GRUCommentPerformance.png" width="255" />
+<img src="https://github.com/Julian1070/Deep-Learning/blob/master/NLPClassification/results/GRUCommentPerformance.png" data-canonical-src="https://github.com/Julian1070/Deep-Learning/blob/master/NLPClassification/results/GRUCommentPerformance.png" width="400" />
